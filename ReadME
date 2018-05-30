@@ -1,0 +1,2 @@
+exe.py：是可执行脚本，执行scrapy爬虫程序
+方法：./exe.py
